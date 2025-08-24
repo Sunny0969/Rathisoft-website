@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Static export output (not needed in repo)
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env*
+
+# IDE/editor
+.vscode/
+*.swp
+.DS_Store
+
+# Archives
+out.zip
